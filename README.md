@@ -1,2 +1,2 @@
 # virtualKeyboard
-Virtual keyboard Java Script
+Virtual keyboard JavaScript
