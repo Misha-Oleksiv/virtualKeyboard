@@ -1,0 +1,55 @@
+body{
+	background-color: aqua;
+}
+
+.virtualkeyboard{
+	margin: 100px auto;
+	max-width: 680px;
+	
+}
+
+.display{
+
+	width: 674PX;
+	border-radius: 5px;
+}
+
+.keyboard{
+	width: 681PX;
+	border-radius: 5px;
+}
+
+.key{
+	height: 40px;
+	border-radius: 5px;
+	background-color: aliceblue;
+	margin: 1px;
+}
+
+.letter{
+	width: 40px;
+}
+
+.shiftLeft, .shiftRight{
+	width: 106px;
+}
+
+.capslock{
+	width: 88px;
+}
+
+.enter{
+	width: 78px;
+}
+
+.tab{
+	width: 80px;
+}
+
+.space{
+	width: 678px;
+}
+
+.active{
+	background-color: dimgrey;
+}
